@@ -6,7 +6,3 @@
 
 * [SSProxy](https://code.solarspire.net/SolarSpire/ssproxyhttps://code.solarspire.net/SolarSpire/ssproxy) | a Modern velocity plugin that aims to be a all-in-one plugin for proxy moderation
 * p much everything on [Deadstar Repositories](https://code.solarspire.net/Deadstar)
-
-> ### Orgs
-
-* [Solarspire Hosting](https://github.com/solarspire/)
