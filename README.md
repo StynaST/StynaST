@@ -4,5 +4,5 @@
 
 > ### My projects
 
-* [SSProxy](https://code.solarspire.net/SolarSpire/ssproxyhttps://code.solarspire.net/SolarSpire/ssproxy) | a Modern velocity plugin that aims to be a all-in-one plugin for proxy moderation
+* [Proton-GE-Fivem](https://github.com/StynaST/proton-ge-custom/releases) my own build of proton for running FiveM under linux (doesnt support adhesive unfortunately yet)
 * p much everything on [Deadstar Repositories](https://code.solarspire.net/Deadstar)
